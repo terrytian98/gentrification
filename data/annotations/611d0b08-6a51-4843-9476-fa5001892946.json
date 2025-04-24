@@ -1,5 +1,264 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Self intro, who am I, why am I here to to talk about what issue "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        }
+      ],
+      "uuid": "a02a0ede-906c-4aeb-a617-f808113b109c"
+    },
+    {
+      "start_time": 5,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "introduction to the problem, what is gentrification, where is it happening, why is it happening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        }
+      ],
+      "uuid": "ed88c70a-52ec-49d0-85f4-db265eea2832"
+    },
+    {
+      "start_time": 120,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "explain why the problem needs to be solved "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        }
+      ],
+      "uuid": "ad332c31-f01e-4726-9cd9-5b42e9a7cc53"
+    },
+    {
+      "start_time": 180,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sounds of chinatown to for pathos, as the viewers see the images, they will understand the beauty of ethnic culture in the USA, and why it is important to preserve these areas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Image"
+        }
+      ],
+      "uuid": "58fda17e-6edd-4a61-a3ba-c2596ca5112a"
+    },
+    {
+      "start_time": 182,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "present solution, where a Housing Assitance Program is created, to provide stipend for renters qualified, which means they must make wages below a certain point  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "fdf15476-89f8-4b63-a399-889b3548335f"
+    },
+    {
+      "start_time": 300,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "show prescedence of the solution working, evidence data"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Data"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive,"
+        }
+      ],
+      "uuid": "66f1c3dd-dc66-4526-bed5-502d1624f2cf"
+    },
+    {
+      "start_time": 360,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "demonstrate counter argument "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Economy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Politicians,"
+        }
+      ],
+      "uuid": "1c60a76b-dff5-403b-950f-e15be6bbbdef"
+    },
+    {
+      "start_time": 421,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sounds of economy growing, this is a use of Logos, as the audience will have the tendency to believe that it might be reasonable for gentrification to happen as it is good for the economy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Image"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        }
+      ],
+      "uuid": "0e6e3fee-14d0-4e27-a0c4-89db7597f684"
+    },
+    {
+      "start_time": 423,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sounds picture of child without house, this is a use of Pathos, it is a strong use of emotions as the audience will have sympathy for the children who suffer from gentrificat"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audienc"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Image"
+        }
+      ],
+      "uuid": "c21a5f25-7506-402c-acb2-e2f09ef15a0b"
+    },
+    {
+      "start_time": 425,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "explain why it matters, why there needs to be a solution, this acts as a conclusion to the video"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        }
+      ],
+      "uuid": "ac158c05-18ad-408b-bac9-e9ef9117a2fc"
+    }
+  ],
   "set": "Default",
   "event_id": "1c76e751-7351-452f-afad-47717497fd9b",
   "source_id": "5798fecf-d82f-41c8-ad02-28c535f5cff2"
