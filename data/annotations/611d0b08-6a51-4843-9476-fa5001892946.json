@@ -22,27 +22,6 @@
       "uuid": "a02a0ede-906c-4aeb-a617-f808113b109c"
     },
     {
-      "start_time": 5,
-      "end_time": 120,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "introduction to the problem, what is gentrification, where is it happening, why is it happening"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Theme"
-        }
-      ],
-      "uuid": "ed88c70a-52ec-49d0-85f4-db265eea2832"
-    },
-    {
       "start_time": 120,
       "end_time": 180,
       "annotation": [
