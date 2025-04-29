@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-04-29T03:16:43.008Z",
+  "created_by": "terrytian98",
+  "title": "gentrification main file",
+  "slug": "gentrification-main-file",
+  "updated_at": "2025-04-29T03:16:43.008Z",
+  "updated_by": "terrytian98",
+  "parent": "c7a6594a-dc0e-4e29-b44b-e948fb203b20",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "d0ce5662-98ae-4f5b-80f5-f27cb628b0fd"
+  }
+}
