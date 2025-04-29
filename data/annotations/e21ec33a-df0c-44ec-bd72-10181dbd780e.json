@@ -1,5 +1,346 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction music, a calm and chilly vibe that allows the reader to be ready for the podcast "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Casual"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "4d354f99-cfad-4ae4-9171-38d4fd0f2447"
+    },
+    {
+      "start_time": 18,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Self intro, who am I, what is this podcast about and what are we talking about in this specific episode"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Self-Introduction"
+        }
+      ],
+      "uuid": "065ffd2c-b5eb-4215-a7d8-ed1f3c420273"
+    },
+    {
+      "start_time": 50,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "introduction to the problem, what is gentrification, and that it is a very common issue, first talk about the upside of gentrification, what good does it bring"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gentrification"
+        }
+      ],
+      "uuid": "735ecd44-550c-430a-ba30-d342f695aabb"
+    },
+    {
+      "start_time": 70,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The downsides of gentrification explain why the problem needs to be solved, because of reasons such as displacement, harm on families, connect to Pathos, as the audience sympathize with residents facing these issues "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        }
+      ],
+      "uuid": "430115a5-db1a-4493-913f-92d83a965fcd"
+    },
+    {
+      "start_time": 86,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sad music that relates to pathos, as the viewers listen to the sorrowful music while understanding the struggles of the families, the effect of Pathos will be enhanced "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "e75b1b45-2738-4500-bf70-8e9046a45d8e"
+    },
+    {
+      "start_time": 182,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "present solution, where a Housing Assitance Program is created, to provide stipend for renters qualified, which means they must make wages below a certain point  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "98a55efd-c21e-433b-ad78-5cff0d1eb699"
+    },
+    {
+      "start_time": 180,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Upbringing music, as the readers feel more emersion to the problem, a presence of hope is seen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Positivity"
+        }
+      ],
+      "uuid": "6600317a-5c1d-41c4-81cb-9f067d3345b6"
+    },
+    {
+      "start_time": 220,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "discuss prescedence of the solution working, evidence data"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Data"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive,"
+        }
+      ],
+      "uuid": "e86da0ac-f083-4865-80fe-c5f642d7794e"
+    },
+    {
+      "start_time": 270,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "demonstrate counter argument "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Economy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Politicians,"
+        }
+      ],
+      "uuid": "d1c9b06e-d04a-42eb-9dc1-85c4850884f3"
+    },
+    {
+      "start_time": 315,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "argument of economy growing, this is a use of Logos, as the audience will have the tendency to believe that it might be reasonable for gentrification to happen as it is good for the economy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Image"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        }
+      ],
+      "uuid": "45fd67fe-4e54-4b07-9050-be2dfd3e7471"
+    },
+    {
+      "start_time": 340,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "explain why it matters to stand up and show support for anti-gentrification efforts, why there needs to be a solution, this acts as a conclusion to the video"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Conclusion"
+        }
+      ],
+      "uuid": "b7331377-dcf2-4e64-a9a1-d6c0bd1041db"
+    },
+    {
+      "start_time": 340,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A music which centers around epicness, allowing reader to feel motivated to support the issue"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Positivity"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Upbringing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Conclusion"
+        }
+      ],
+      "uuid": "5911f1c0-a60e-47e3-9521-44eea3c4c057"
+    }
+  ],
   "set": "Default",
   "event_id": "d0ce5662-98ae-4f5b-80f5-f27cb628b0fd",
   "source_id": "fe6e4cd7-90dd-40ff-9bf3-fb0557845b0b"
