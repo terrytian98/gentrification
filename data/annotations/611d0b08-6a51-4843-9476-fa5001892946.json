@@ -490,31 +490,6 @@
         }
       ],
       "uuid": "b3177c78-2729-4e60-860f-76b976125fa0"
-    },
-    {
-      "start_time": 425,
-      "end_time": 480,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "explain why it matters, why there needs to be a solution, this acts as a conclusion to the video"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Message"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Theme"
-        }
-      ],
-      "uuid": "a8509b28-5a50-4697-aff6-7919d67534c1"
     }
   ],
   "set": "Default",
